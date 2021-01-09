@@ -8,4 +8,4 @@ This course is for beginners who want to step into the world of Python GUI Progr
 - Convert command line tools to Graphical Applications
 - Learn Python GUI programming and how to implement it in various real life scenarios
 - Develop and integrate Python Graphics and Shapes into your Project
-= Create Executable .exe Apps
+- Create Executable .exe Apps
